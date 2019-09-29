@@ -2,6 +2,7 @@
 title: springboot-stop
 date: 2019-09-29 16:40:35
 tags: springboot
+comments: true
 cover: http://pyjw54h3s.bkt.clouddn.com/092931-1557365371264b.jpg
 ---
 
