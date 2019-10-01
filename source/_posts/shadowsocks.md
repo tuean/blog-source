@@ -1,9 +1,11 @@
 ---
 title: shadowsocks
 date: 2019-09-28 18:29:22
-tags: shadowsocks
+tags: 
+    - shadowsocks
 comments: true
 cover: http://pyjw54h3s.bkt.clouddn.com/232540-150108274086c8.jpg
+description: shadowsocsk
 ---
 
 ### 服务器环境

@@ -1,9 +1,11 @@
 ---
 title: mac
 date: 2019-09-29 20:04:33
-tags: mac plugin
+tags: 
+    - mac plugin
 comments: true
 cover: http://pyjw54h3s.bkt.clouddn.com/153553-15570417531cd3.jpg
+description: plugins on my mac 
 ---
 
 

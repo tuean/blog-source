@@ -1,9 +1,11 @@
 ---
 title: git
 date: 2019-09-29 16:52:02
-tags: git
+tags: 
+    - git
 comments: true
 cover: http://pyjw54h3s.bkt.clouddn.com/195624-15301869847b8a.jpg
+description: some git commands
 ---
 
 #### git相关命令
