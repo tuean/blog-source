@@ -79,6 +79,7 @@ description: steps of building this blog
     * CNAME          配置域名所需 需要手动创建
     * package.json   webpack配置文件
 
+
 #### 2. hexo配置文件修改
 1. 修改 **# Site**
     ```yaml
@@ -87,12 +88,13 @@ description: steps of building this blog
      ...
     ```
 2. 修改 **# Deployment**
-     ```yaml
-      deploy: 
-        type: git
-        branch: master
-        repo: blog github地址
-     ``` 
+    ```yaml
+     deploy: 
+       type: git
+       branch: master
+       repo: blog github地址
+    ``` 
+
 
 #### 3. hexo使用
 1. 创建文件
@@ -139,17 +141,20 @@ hexo d
        
 #### 2. 安装主题，以[hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)为例
 1. 项目根目录下
-```bash
- git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/Butterfly
-``` 
+    ```bash
+     git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/Butterfly
+    ``` 
+
 2. 修改项目 **_config.yml** 中的 **# theme**
-```bash
- theme: Butterfly
-``` 
+    ```bash
+     theme: Butterfly
+    ``` 
+
 3. 安装依赖
-```bash
- npm install hexo-renderer-jade hexo-renderer-stylus --save or yarn add hexo-renderer-jade hexo-renderer-stylus
- ```
+    ```bash
+     npm install hexo-renderer-jade hexo-renderer-stylus --save or yarn add hexo-renderer-jade hexo-renderer-stylus
+    ```
+ 
 4. 自定义
 进入 **theme/Butterfly** 下的 **_config**
 自行按照爱好设定
