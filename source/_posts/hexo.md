@@ -93,27 +93,27 @@ description: steps of building this blog
        type: git
        branch: master
        repo: blog github地址
-    ``` 
+    ```
 
 
 #### 3. hexo使用
-1. 创建文件
+* 创建文件
     ```bash
      hexo new fileName
     ```
-2. 清理文件
+* 清理文件
     ```bash
      hexo clean
      ```
-3. 生成文件
+* 生成文件
     ```bash
      hexo g
     ```
-4. 本地预览 http://localhost:4000
+* 本地预览 http://localhost:4000
     ```bash
      hexo s
     ```
-5. 结果发布
+* 结果发布
     ```bash
      hexo d
     ```
@@ -143,12 +143,12 @@ hexo d
 1. 项目根目录下
     ```bash
      git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/Butterfly
-    ``` 
+    ```
 
 2. 修改项目 **_config.yml** 中的 **# theme**
     ```bash
      theme: Butterfly
-    ``` 
+    ```
 
 3. 安装依赖
     ```bash
