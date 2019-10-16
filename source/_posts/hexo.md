@@ -153,7 +153,9 @@ hexo d
 3. 安装依赖
     ```bash
      npm install hexo-renderer-jade hexo-renderer-stylus --save or yarn add hexo-renderer-jade hexo-renderer-stylus
+     npm install hexo-deployer-git --save
     ```
+    > 注意 需要在hexo主目录下安装
  
 4. 自定义
 进入 **theme/Butterfly** 下的 **_config**
@@ -167,3 +169,13 @@ hexo d
  Q: 项目启动后显示白屏
  
  A: 查看 theme 文件夹下所使用的资源文件是否未提交 
+ 
+ Q: git not found 
+ 
+ A: 执行 npm install hexo-deployer-git --save
+ 
+ Q: git auth fail 
+ 
+ A: 修改本地git全局配置 
+    git config --global user.name xxx
+    git config --global user.email xxx
