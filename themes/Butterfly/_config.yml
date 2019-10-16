@@ -457,7 +457,7 @@ busuanzi:
 # 也可以寫成 年/月/日 時間
 runtimeshow:
   enable: true
-  start_date: 27/9/2019 00:00:00
+  start_date: 9/27/2019 00:00:00
 
 
 ####   右下角按鈕  ####
