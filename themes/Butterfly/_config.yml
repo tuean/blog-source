@@ -131,21 +131,21 @@ cdn:
 # Post info settings
 # ---------------
 # avatar: /img/avatar.png
-avatar: http://pyjw54h3s.bkt.clouddn.com/gf.jpeg
+avatar: https://i.loli.net/2019/10/23/d1Ml9B2u4cNoGwJ.jpg
 
 # the banner image of index
 # if the banner of another page not setting,it will show the top_img
-top_img: http://pyjw54h3s.bkt.clouddn.com/%E6%9C%88%E8%A7%81%20%20%E5%A5%B3%E5%AD%A9%E5%AD%90%20%E6%98%9F%E7%A9%BA%20%E6%B5%81%E6%98%9F%20%E9%A4%90%E6%A1%8C%20%E8%81%9A%E4%BC%9A%204k%E5%8A%A8%E6%BC%AB%E5%A3%81%E7%BA%B8_%E5%BD%BC%E5%B2%B8%E5%9B%BE%E7%BD%91.jpg
+top_img: https://i.loli.net/2019/10/23/rGVfgibcAOs49EM.jpg
 
 #the banner image of post
 # if the post not set the post cover and post top image, it will show it
-post_img: http://pyjw54h3s.bkt.clouddn.com/235101-1553356261d822.jpg
+post_img: https://i.loli.net/2019/10/23/cJWaX2E1e9vIyHw.jpg
 
 # the default cover of the post
-default_cover: http://pyjw54h3s.bkt.clouddn.com/205524-1566651324f88b.jpg
+default_cover: https://i.loli.net/2019/10/23/l4hy8cdnGtFq2jH.jpg
 
 # the banner image of archive page
-archive_img: http://pyjw54h3s.bkt.clouddn.com/201404-15674264444b34.jpg
+archive_img: https://i.loli.net/2019/10/23/RzkXobG31TIdNp7.jpg
 
 # the banner image of tag page
 tag_img: https://cdn.jsdelivr.net/gh/jerryc127/CDN/img/tag-bg.png
