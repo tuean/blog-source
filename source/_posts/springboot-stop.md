@@ -4,7 +4,7 @@ date: 2019-09-29 16:40:35
 tags: 
     - springboot
 comments: true
-cover: http://pyjw54h3s.bkt.clouddn.com/092931-1557365371264b.jpg
+cover: https://i.loli.net/2019/10/23/1z5wjHd9bCQO24l.jpg
 description: how to stop springboot application
 ---
 

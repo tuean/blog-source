@@ -6,7 +6,7 @@ tags:
     - github 
     - tool
 comments: true
-cover: http://pyjw54h3s.bkt.clouddn.com/085353-155736323338e0.jpg
+cover: https://i.loli.net/2019/10/23/2whnVUlTNGBu5Ek.jpg
 description: tools to recommend
 ---
 
@@ -19,4 +19,5 @@ description: tools to recommend
 * [cheat](https://github.com/chubin/cheat.sh#installation) 命令查询工具
 
 ### 网站推荐
-*  [在线流程图](https://www.websequencediagrams.com/)
+* [在线流程图](https://www.websequencediagrams.com/)
+* [免费图床](https://sm.ms)

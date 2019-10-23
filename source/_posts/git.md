@@ -4,7 +4,7 @@ date: 2019-09-29 16:52:02
 tags: 
     - git
 comments: true
-cover: http://pyjw54h3s.bkt.clouddn.com/195624-15301869847b8a.jpg
+cover: https://i.loli.net/2019/10/23/NtCopZqmeBSKOl1.jpg
 description: some git commands
 ---
 
