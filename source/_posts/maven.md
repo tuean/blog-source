@@ -4,7 +4,7 @@ date: 2019-09-29 20:07:44
 tags: 
     - maven
 comments: true
-cover: https://i.loli.net/2019/10/23/imPEX1YopVaCqxv.jpg
+cover: https://i.loli.net/2019/10/30/EoyZbx7Ye4RT1st.jpg
 description: some maven commands
 ---
 

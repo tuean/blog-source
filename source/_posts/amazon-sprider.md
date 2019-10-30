@@ -1,7 +1,9 @@
 ---
 title: amazon-sprider
 date: 2019-10-25 10:24:49
-tags: 个人项目
+tags: 
+    - 个人项目 
+cover: https://i.loli.net/2019/10/30/5lyRzMAwdLkFS4P.jpg
 ---
 
 ###  [自用的亚马逊商品爬虫](https://github.com/tuean/spider-amazon)

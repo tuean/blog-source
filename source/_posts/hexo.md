@@ -4,7 +4,7 @@ date: 2019-10-09 16:39:54
 tags: 
     - hexo
     - github 
-cover: https://i.loli.net/2019/10/23/hotFmzr2LICpMgQ.jpg
+cover: https://i.loli.net/2019/10/30/4KvzoaEV21nQwjM.jpg
 comments: true
 description: steps of building this blog 
 ---
