@@ -18,6 +18,24 @@ description: tools to recommend
 
 * [cheat](https://github.com/chubin/cheat.sh#installation) 命令查询工具
 
+
 ### 网站推荐
 * [在线流程图](https://www.websequencediagrams.com/)
+
 * [免费图床](https://sm.ms)
+
+
+### 上班划水
+* [黑客派](https://hacpai.com/)
+
+* [v2ex](https://www.v2ex.com/)
+
+
+### 梯子
+* [just my socks](https://justmysocks1.net/members/index.php)
+省去自己搭梯子的烦恼
+
+* [ss 客户端下载](https://shadowsocks.org/en/download/clients.html)
+
+### 免费直播
+* [柠檬直播](http://www.ningmengtiyu.com/)

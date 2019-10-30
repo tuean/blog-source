@@ -52,14 +52,16 @@ function time() {
       let newSrc = src + "?t" + Math.random()
       // 设置新src 加上随机数强制页面重新加载图片
       clearTimeout(timer)
+      return
   }
   
   if (check_image_exist(src)) {
       find = count + 1
   }
   
-  if (count == max_count) {
+  if (count >= max_count) {
       oldFunction()
+      return
   }
 }
 ```
