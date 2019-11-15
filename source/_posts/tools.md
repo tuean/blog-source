@@ -24,6 +24,10 @@ description: tools to recommend
 
 * [免费图床](https://sm.ms)
 
+* [正则示例](http://www.xuanwodata.com:3000/sregular/)
+
+* [css动画样式示例](https://daneden.github.io/animate.css/)
+
 
 ### 上班划水
 * [黑客派](https://hacpai.com/)
