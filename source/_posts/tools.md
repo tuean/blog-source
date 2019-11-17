@@ -28,6 +28,7 @@ description: tools to recommend
 
 * [css动画样式示例](https://daneden.github.io/animate.css/)
 
+* [google搜索词热度](https://trends.google.com/trends/?geo=GB)
 
 ### 上班划水
 * [黑客派](https://hacpai.com/)

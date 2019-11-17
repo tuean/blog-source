@@ -70,6 +70,7 @@ fira code  16 1.0 mocaco
 - iterm2
 - Star vpn
 - shadowsocks  
+- shadowsocks-NG
 - Python3
 - Cheat.sh
 - fuck
@@ -78,4 +79,11 @@ fira code  16 1.0 mocaco
 - tpp
 - Fliqlo
 - Synergy
+- iHost
+- Git
+- SnailGitLite
+- IPIP
+- Mounty
+- IINA
+- OneDrive
 
