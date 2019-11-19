@@ -10,7 +10,7 @@ description: watermark
 
 ## 水印
 
-### 前端水印
+### 明水印
 
 网上找了个实现
 
@@ -283,7 +283,7 @@ window.onresize = function() {
 }
 ```
 
-### 后端水印
+### 暗水印
 
 类似阿里巴巴内网中水印，见[知乎讨论](https://www.zhihu.com/question/50735753)
 

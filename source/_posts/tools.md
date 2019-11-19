@@ -30,6 +30,9 @@ description: tools to recommend
 
 * [google搜索词热度](https://trends.google.com/trends/?geo=GB)
 
+### 学习
+* [IBM developer](https://www.ibm.com/developerworks/cn/topics/)
+
 ### 上班划水
 * [黑客派](https://hacpai.com/)
 
