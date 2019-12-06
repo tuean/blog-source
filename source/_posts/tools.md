@@ -30,6 +30,11 @@ description: tools to recommend
 
 * [google搜索词热度](https://trends.google.com/trends/?geo=GB)
 
+* [曹操导航](https://caocao.boxopened.com/)
+
+* [utool导航](https://utool.fun/)
+
+
 ### 学习
 * [IBM developer](https://www.ibm.com/developerworks/cn/topics/)
 
