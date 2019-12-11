@@ -19,7 +19,7 @@ description: tools to recommend
 * [cheat](https://github.com/chubin/cheat.sh#installation) 命令查询工具
 
 
-### 网站推荐
+### 工具网站
 * [在线流程图](https://www.websequencediagrams.com/)
 
 * [免费图床](https://sm.ms)
@@ -34,6 +34,12 @@ description: tools to recommend
 
 * [utool导航](https://utool.fun/)
 
+* [图片做旧](https://tools.miku.ac/image_patina/)
+
+* [页面加载分析](https://developers.google.com/speed/pagespeed/insights/)
+
+* [图片批量裁剪](https://www.smartresize.com/zh-cn)
+
 
 ### 学习
 * [IBM developer](https://www.ibm.com/developerworks/cn/topics/)
@@ -42,6 +48,8 @@ description: tools to recommend
 * [黑客派](https://hacpai.com/)
 
 * [v2ex](https://www.v2ex.com/)
+
+* [鱼塘](https://tophub.fun)
 
 
 ### 梯子
