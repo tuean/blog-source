@@ -40,6 +40,8 @@ description: tools to recommend
 
 * [图片批量裁剪](https://www.smartresize.com/zh-cn)
 
+* [正则校验](https://regex101.com/)
+
 
 ### 学习
 * [IBM developer](https://www.ibm.com/developerworks/cn/topics/)
