@@ -1,7 +1,9 @@
 ---
 title: daterangepicker-position-problem
 date: 2019-12-20 14:42:52
-tags:
+tags: daterangepicker
+cover: http://www.005.tv/uploads/allimg/180508/13-1P50QK509147.jpg
+description: daterangepicker position fixed when scrolling
 ---
 
 
