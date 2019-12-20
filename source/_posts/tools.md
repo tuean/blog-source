@@ -18,10 +18,12 @@ description: tools to recommend
 
 * [cheat](https://github.com/chubin/cheat.sh#installation) 命令查询工具
 
+* [neofetch](https://github.com/dylanaraps/neofetch) 系统信息工具
+
+* [arthas](https://github.com/alibaba/arthas) java程序诊断工具
+
 
 ### 工具网站
-* [在线流程图](https://www.websequencediagrams.com/)
-
 * [免费图床](https://sm.ms)
 
 * [正则示例](http://www.xuanwodata.com:3000/sregular/)
@@ -42,9 +44,44 @@ description: tools to recommend
 
 * [正则校验](https://regex101.com/)
 
+* [caniuse(浏览器css样式适配)](https://caniuse.com/)
+
+* [alibaba-icon](https://www.iconfont.cn/)
+
+* [java反编译class](http://javare.cn/)
+
+* [花字生成](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
+* [zsh-themes](https://zshthem.es/all/)
+
+* [cron表达式生成](http://www.cronmaker.com/)
+
+* [selenium release包下载](http://selenium-release.storage.googleapis.com/index.html)
+
+* [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index)
+
+* [chromedriver npm 下载](https://npm.taobao.org/mirrors/chromedriver/)
+
+* [显示本地ip](http://ip111.cn/)
+
+
+### 在线画图
+* [在线流程图](https://www.websequencediagrams.com/)
+
+* [processon.com](https://processon.com/)
+
+* [draw.io](https://www.draw.io/)
+
 
 ### 学习
 * [IBM developer](https://www.ibm.com/developerworks/cn/topics/)
+
+* [gitbook:burpsuit使用说明](https://legacy.gitbook.com/book/t0data/burpsuite/details)
+
+* [gitbook:java设计模式](https://legacy.gitbook.com/book/quanke/design-pattern-java/details)
+
+* [java](https://www.mkyong.com/all-tutorials-on-mkyong-com/)
+
 
 ### 上班划水
 * [黑客派](https://hacpai.com/)
@@ -53,6 +90,12 @@ description: tools to recommend
 
 * [鱼塘](https://tophub.fun)
 
+* [知乎](https://www.zhihu.com)
+
+* [js1k](https://js1k.com/)
+
+
+
 
 ### 梯子
 * [just my socks](https://justmysocks1.net/members/index.php)
@@ -60,5 +103,36 @@ description: tools to recommend
 
 * [ss 客户端下载](https://shadowsocks.org/en/download/clients.html)
 
+* [ss 服务端搭建教程](https://linghucong.js.org/2016/04/20/setup-Shadowsocks-on-ubuntu-1604/)
+
+
+
 ### 免费直播
 * [柠檬直播](http://www.ningmengtiyu.com/)
+
+### 刷题
+* [leetcode](https://leetcode.com/problemset/all/)
+
+* [lintcode](https://www.lintcode.com/zh-cn/problem/)
+
+* [hackerearth](https://www.hackerearth.com/zh/)
+
+* [codewars](https://www.codewars.com)
+
+* [北京大学PKU](http://acm.pku.edu.cn/JudgeOnline/)
+
+* [浙江大学ZKU](http://acm.zju.edu.cn/)
+from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
+
+
+### 官方文档
+* [tomcat](https://cwiki.apache.org/confluence/display/tomcat/)
+
+* [springboot](https://docs.spring.io/spring-boot/docs/1.5.1.RELEASE/reference/htmlsingle/#appendix)
+
+* [presto-current](https://prestodb.io/docs/current/)
+
+* [presto-0.189](https://prestodb.io/docs/0.189/sql/deallocate-prepare.html)
+
+* [hive查询](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DML#LanguageManualDML-InsertingintotablesfromSQL)
+
