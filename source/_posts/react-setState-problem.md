@@ -3,6 +3,7 @@ title: react-setState-problem
 date: 2019-12-19 17:17:51
 tags: 
     - react
+    - problem
 comments: true
 cover: http://pic1.win4000.com/wallpaper/2019-11-20/5dd4dfc5e163b.jpg
 description: this.setState is not a function
