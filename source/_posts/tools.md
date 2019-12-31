@@ -64,6 +64,8 @@ description: tools to recommend
 
 * [显示本地ip](http://ip111.cn/)
 
+* [free-api](https://www.free-api.com/)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
@@ -136,3 +138,7 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 
 * [hive查询](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DML#LanguageManualDML-InsertingintotablesfromSQL)
 
+
+### 电子书资源
+
+* [三秋书屋](https://www.d4j.cn/)

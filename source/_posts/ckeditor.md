@@ -45,14 +45,14 @@ let gap_time = 300
 let max_count = 10
 let count = 0
 let find = -1
-let timer = setTimeout(time, gap)
+let timer = setInterval(time, gap)
 let src = ''
 function time() {
   count++;
   if (find != -1 && count > find) {
       let newSrc = src + "?t" + Math.random()
       // 设置新src 加上随机数强制页面重新加载图片
-      clearTimeout(timer)
+      clearInterval(timer)
       return
   }
   
@@ -61,6 +61,7 @@ function time() {
   }
   
   if (count >= max_count) {
+      clearInterval(timer)
       oldFunction()
       return
   }
