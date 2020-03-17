@@ -239,9 +239,9 @@ disqus:
 
 # valine comment system. https://valine.js.org
 valine:
-  enable: false # if you want use valine,please set this value is true
-  appId:   # leancloud application app id
-  appKey:   # leancloud application app key
+  enable: true # if you want use valine,please set this value is true
+  appId: OoxtnWQXPtJHqbQ33WMwCe1i-gzGzoHsz  # leancloud application app id
+  appKey: psOvGLRjTQUgqX9U6pf4g6Sa  # leancloud application app key
   notify: false # valine mail notify (true/false) https://github.com/xCss/Valine/wiki
   verify: false # valine verify code (true/false)
   pageSize: 10 # comment list page size

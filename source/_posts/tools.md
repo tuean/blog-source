@@ -66,6 +66,8 @@ description: tools to recommend
 
 * [free-api](https://www.free-api.com/)
 
+* [查看当前设备屏幕尺寸](https://device.my/)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
@@ -151,3 +153,5 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 * [nacicat premium](http://www.ddup.date/navicat-premium-12-1-15-%E6%9C%80%E6%96%B0%E7%89%88%E7%A0%B4%E8%A7%A3%E5%AE%89%E8%A3%85%EF%BC%88windows%EF%BC%89/)
 
 * [ncm格式破解](https://moresound.tk/music/tool/)
+
+* [idea破解码](http://idea.medeming.com/jets)
