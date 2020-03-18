@@ -30,3 +30,10 @@ GLIBCXX.3.4.14 not found
 #### 注意事项
 注意升级对应的版本，版本变动过大会出现更多关联包的升级需求
 
+#### 后续操作
+注意按当前方式操作安装的node及npm，需要手动添加软链
+```bash
+ln -s /xxx/npm /usr/bin/npm
+
+ln -s /xxx/node /usr/bin/node
+```
