@@ -68,6 +68,10 @@ description: tools to recommend
 
 * [查看当前设备屏幕尺寸](https://device.my/)
 
+* [测试视频资源](http://samples.mplayerhq.hu/)
+
+* [腾讯隐私，用来关闭广告](https://privacy.qq.com/advertisement.htm)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
