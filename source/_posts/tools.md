@@ -92,6 +92,8 @@ description: tools to recommend
 
 * [css灵感](https://chokcoco.github.io/CSS-Inspiration/#/)
 
+* [算法在线展示](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
 
 ### 上班划水
 * [黑客派](https://hacpai.com/)
