@@ -72,6 +72,8 @@ description: tools to recommend
 
 * [腾讯隐私，用来关闭广告](https://privacy.qq.com/advertisement.htm)
 
+* [jdk下载](https://www.injdk.cn/)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
