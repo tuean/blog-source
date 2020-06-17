@@ -72,6 +72,8 @@ description: tools to recommend
 
 * [腾讯隐私，用来关闭广告](https://privacy.qq.com/advertisement.htm)
 
+* [vdsx在线打开](https://www.lucidchart.com)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
@@ -148,6 +150,7 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 
 * [hive查询](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DML#LanguageManualDML-InsertingintotablesfromSQL)
 
+* [spring cloud boot 版本对应](https://start.spring.io/actuator/info)
 
 ### 电子书资源
 
