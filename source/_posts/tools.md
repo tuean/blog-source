@@ -74,6 +74,8 @@ description: tools to recommend
 
 * [vdsx在线打开](https://www.lucidchart.com)
 
+* [jdk下载](https://www.injdk.cn/)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
