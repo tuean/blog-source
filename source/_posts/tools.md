@@ -74,6 +74,10 @@ description: tools to recommend
 
 * [在线pdm打开](http://www.dmanywhere.cn/)
 
+* [vdsx在线打开](https://www.lucidchart.com)
+
+* [jdk下载](https://www.injdk.cn/)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
@@ -93,6 +97,8 @@ description: tools to recommend
 * [java](https://www.mkyong.com/all-tutorials-on-mkyong-com/)
 
 * [css灵感](https://chokcoco.github.io/CSS-Inspiration/#/)
+
+* [算法在线展示](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 
 ### 上班划水
@@ -148,6 +154,7 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 
 * [hive查询](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+DML#LanguageManualDML-InsertingintotablesfromSQL)
 
+* [spring cloud boot 版本对应](https://start.spring.io/actuator/info)
 
 ### 电子书资源
 
