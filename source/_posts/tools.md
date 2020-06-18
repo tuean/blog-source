@@ -72,6 +72,8 @@ description: tools to recommend
 
 * [腾讯隐私，用来关闭广告](https://privacy.qq.com/advertisement.htm)
 
+* [在线pdm打开](http://www.dmanywhere.cn/)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
