@@ -72,6 +72,8 @@ description: tools to recommend
 
 * [腾讯隐私，用来关闭广告](https://privacy.qq.com/advertisement.htm)
 
+* [在线pdm打开](http://www.dmanywhere.cn/)
+
 * [vdsx在线打开](https://www.lucidchart.com)
 
 * [jdk下载](https://www.injdk.cn/)
