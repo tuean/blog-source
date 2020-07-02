@@ -85,7 +85,7 @@ deploy:
 #  repo: https://github.com/tuean/blog.git
   repo:
     github: https://github.com/tuean/blog.git
-    coding: https://e.coding.net/tuean/blog.git
+#    coding: https://e.coding.net/tuean/blog.git
 
 #plugins:
 #- hexo-algoliasearch
