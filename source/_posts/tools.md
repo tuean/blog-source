@@ -78,6 +78,8 @@ description: tools to recommend
 
 * [jdk下载](https://www.injdk.cn/)
 
+* [教你使用百度](http://tool.mkblog.cn/lmbtfy/)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
