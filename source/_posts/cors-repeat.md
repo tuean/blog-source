@@ -3,6 +3,7 @@ title: cors-repeat
 date: 2020-05-22 10:52:00
 tags:
     - cors
+cover: https://i.loli.net/2019/10/30/bpQnviZ3TAN8Pgm.jpg
 ---
 
 

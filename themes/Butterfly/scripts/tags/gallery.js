@@ -5,7 +5,7 @@
 
 'use strict'
 
-console.log(require('hexo-util').url_for)
+// console.log(require('hexo-util').url_for)
 const url_for = require('hexo-util').url_for.bind(hexo)
 
 function gallery (args, content) {

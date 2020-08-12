@@ -5,7 +5,7 @@ tags:
     - shadowsocks
 comments: true
 cover: https://i.loli.net/2019/10/23/vUrsJTni9XRkB83.jpg
-description: shadowsocsk
+description: shadowsocks
 ---
 
 ### 服务器环境
