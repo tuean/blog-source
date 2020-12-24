@@ -102,6 +102,7 @@ description: tools to recommend
 
 * [算法在线展示](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
+* [git飞行日志](https://docs.breword.com/k88hudson-git-flight-rules/readme_zh-cn)
 
 ### 上班划水
 * [黑客派](https://hacpai.com/)
