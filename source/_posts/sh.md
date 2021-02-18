@@ -2,6 +2,8 @@
 title: sh
 date: 2020-12-02 17:15:54
 tags:
+    - shell
+cover: https://i.loli.net/2021/02/18/o7jSzVZ4n9RBl5I.jpg
 ---
 
 

@@ -4,6 +4,7 @@ date: 2020-03-17 10:59:33
 tags:
     - idea
     - problem
+cover: https://i.loli.net/2021/02/18/P4YgnEz2u1sCty5.jpg
 ---
 
 

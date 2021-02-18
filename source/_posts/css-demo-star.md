@@ -3,6 +3,7 @@ title: css-demo-star
 date: 2020-02-25 03:21:39
 tags: 
     - css
+cover: https://i.loli.net/2021/02/18/eDrMmaJvkguslIV.jpg
 ---
 
 ### 一个星空demo的学习

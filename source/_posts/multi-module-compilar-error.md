@@ -4,7 +4,7 @@ date: 2020-01-09 17:54:34
 tags:
     - problem
     - maven
-
+cover: https://i.loli.net/2021/02/18/NsSJFXWM1b2puaK.jpg
 ---
 
 ### 多模块maven项目问题

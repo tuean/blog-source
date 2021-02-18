@@ -5,7 +5,7 @@ tags:
     - session
     - chrome
 comments: true
-cover: 
+cover: https://i.loli.net/2021/02/18/3koWlriFRqBEZcT.jpg
 description: 
 ---
 

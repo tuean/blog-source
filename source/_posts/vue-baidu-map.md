@@ -2,6 +2,7 @@
 title: vue-baidu-map
 date: 2020-03-22 22:43:16
 tags:
+cover: https://i.loli.net/2021/02/18/kM97YQefjbUqnGR.jpg
 ---
 
 

@@ -5,6 +5,7 @@ tags:
     - linux
     - red hat
     - node
+cover: https://i.loli.net/2021/02/18/usOb3vTM5ZSx47U.jpg
 ---
 
 

@@ -9,13 +9,13 @@
 menu:
   Home: / || fas fa-home
   Archives: /archives/ || fas fa-archive
-#  Tags: /tags/ || fas fa-tags
-#  Categories: /categories/ || fas fa-folder-open
+  Tags: /tags/ || fas fa-tags
+  Categories: /categories/ || fas fa-folder-open
 #  List||fas fa-list:
 #    - Music || /music/ || fas fa-music
 #    - Movie || /movies/ || fas fa-video
-#  Link: /link/ || fas fa-link
-#  About: /about/ || fas fa-heart
+  Link: /link/ || fas fa-link
+  About: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -559,9 +559,12 @@ subtitle:
   # 開頭不允許轉義字元，如需要，請把整個句子用雙引號包住
   # 如果關閉打字效果，subtitle只會顯示sub的第一行文字
   sub:
-    - 今日事&#44;今日畢
-    - Never put off till tomorrow what you can do today
-
+#    - 今日事&#44;今日畢
+#    - Never put off till tomorrow what you can do today
+     - 为天地立心
+     - 为生命立命
+     - 为往圣继绝学
+     - 为天下开太平
 # Loading Animation (加載動畫)
 preloader: false
 
@@ -607,8 +610,8 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date:
+  enable: true
+  publish_date: 9/27/2019 00:00:00
 
 # Bottom right button (右下角按鈕)
 # --------------------------------------
@@ -617,7 +620,7 @@ runtimeshow:
 translate:
   enable: true
   # The text of a button
-  default: 繁
+  default: 簡
   # the language of website (1 - Traditional Chinese/ 2 - Simplified Chinese）
   defaultEncoding: 2
   # Time delay
@@ -700,7 +703,7 @@ instantpage: true
 # https://github.com/vinta/pangu.js
 # Insert a space between Chinese character and English character (中英文之間添加空格)
 pangu:
-  enable: false
+  enable: true
   field: site # site/post
 
 # Lazyload (圖片懶加載)

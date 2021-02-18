@@ -3,6 +3,7 @@ title: redis-cluster
 date: 2020-07-02 10:28:34
 tags:
     - redis cluster
+cover: https://i.loli.net/2021/02/18/FMzVqxADs1HWwn6.jpg
 ---
 
 

@@ -3,6 +3,7 @@ title: markdown-demo
 date: 2020-06-29 14:46:03
 tags:
     - markdown
+cover: https://i.loli.net/2021/02/18/ANOrd1BXuEgTtZV.jpg
 ---
 
 

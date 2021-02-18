@@ -3,7 +3,7 @@ title: xmlschema-read
 date: 2020-01-07 16:14:10
 tags:
     - problem
-   
+cover: https://i.loli.net/2021/02/18/alfmWNuB8ZpQPAR.jpg
 ---
 
 ### webService报错

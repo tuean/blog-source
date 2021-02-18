@@ -5,7 +5,7 @@ tags:
     - springboot
     - problem
 comments: true
-cover: 
+cover: https://i.loli.net/2021/02/18/zJ6jI9xiYmGXaqF.jpg
 ---
 
 
