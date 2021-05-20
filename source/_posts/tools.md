@@ -22,6 +22,9 @@ description: tools to recommend
 
 * [arthas](https://github.com/alibaba/arthas) java程序诊断工具
 
+### github工具
+* [readme图标](https://shields.io/)
+
 
 ### 工具网站
 * [免费图床](https://sm.ms)
@@ -80,6 +83,14 @@ description: tools to recommend
 
 * [教你使用百度](http://tool.mkblog.cn/lmbtfy/)
 
+* [rubular在线正则](https://rubular.com/)
+
+* [中国传统眼色](http://zhongguose.com/)
+
+
+### 数据网站
+* [行业数据](http://www.dydata.io)
+
 
 ### 在线画图
 * [在线流程图](https://www.websequencediagrams.com/)
@@ -103,6 +114,7 @@ description: tools to recommend
 * [算法在线展示](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 * [git飞行日志](https://docs.breword.com/k88hudson-git-flight-rules/readme_zh-cn)
+
 
 ### 上班划水
 * [黑客派](https://hacpai.com/)
@@ -160,14 +172,38 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 * [spring cloud boot 版本对应](https://start.spring.io/actuator/info)
 
 ### 电子书资源
-
 * [三秋书屋](https://www.d4j.cn/)
 
 
 #### 破解
-
 * [nacicat premium](http://www.ddup.date/navicat-premium-12-1-15-%E6%9C%80%E6%96%B0%E7%89%88%E7%A0%B4%E8%A7%A3%E5%AE%89%E8%A3%85%EF%BC%88windows%EF%BC%89/)
 
 * [ncm格式破解](https://moresound.tk/music/tool/)
 
 * [idea破解码](http://idea.medeming.com/jets)
+
+* [mac破解软件下载](https://macwk.com/)
+
+
+#### blog
+* [美团技术团队](https://tech.meituan.com/)
+
+* [风云](https://blog.codingnow.com/)
+
+* [阮一峰](http://www.ruanyifeng.com/blog/)
+
+* [左耳朵耗子](https://coolshell.cn/)
+
+* [列表](http://techblog.pub/)
+
+
+#### 壁纸
+* [lcoc](http://lcoc.top/bizhi/)
+
+* [极像素](https://www.sigoo.com/)
+
+* [彼岸图网](http://pic.netbian.com/)
+
+* [免费版权图片搜索](https://www.logosc.cn/so/)
+
+
