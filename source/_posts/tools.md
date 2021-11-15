@@ -117,6 +117,24 @@ description: tools to recommend
 
 * [git飞行日志](https://docs.breword.com/k88hudson-git-flight-rules/readme_zh-cn)
 
+* [css battle](https://cssbattle.dev/)
+
+* [css学习](https://zh.learnlayout.com/)
+
+* [flex学习](http://flexboxfroggy.com/)
+
+* [css文章](https://css-tricks.com/)
+
+* [codepen](https://codepen.io/)
+
+* [在线模拟](https://neumorphism.io/#55b9f3)
+
+* [好看的渐变色](https://uigradients.com/#VerBlack)
+
+* [自定义svg](https://iconsvg.xyz/) 
+
+
+ 
 
 ### 上班划水
 * [黑客派](https://hacpai.com/)
