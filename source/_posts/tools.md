@@ -89,6 +89,8 @@ description: tools to recommend
 
 * [cronhub](https://crontab.cronhub.io/)
 
+* [leanpub](https://leanpub.com/bookstore?type=book)
+
 
 ### 数据网站
 * [行业数据](http://www.dydata.io)
