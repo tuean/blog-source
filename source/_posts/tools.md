@@ -90,6 +90,8 @@ description: tools to recommend
 * [cronhub](https://crontab.cronhub.io/)
 
 * [leanpub](https://leanpub.com/bookstore?type=book)
+ 
+* [imagel online](https://ij.imjoy.io/)
 
 
 ### 数据网站
@@ -229,3 +231,11 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 * [免费版权图片搜索](https://www.logosc.cn/so/)
 
 
+#### idea plugin
+* Active-power-mode
+* nyan progress bar
+* Meterial Theme UI 
+* Atom Material Icons
+* GitToolBox
+* Maven Helper
+* Vuesion Theme
