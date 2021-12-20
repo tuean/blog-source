@@ -28,65 +28,40 @@ description: tools to recommend
 
 ### 工具网站
 * [免费图床](https://sm.ms)
-
 * [正则示例](http://www.xuanwodata.com:3000/sregular/)
-
 * [css动画样式示例](https://daneden.github.io/animate.css/)
-
 * [google搜索词热度](https://trends.google.com/trends/?geo=GB)
-
 * [曹操导航](https://caocao.boxopened.com/)
-
 * [utool导航](https://utool.fun/)
-
 * [图片做旧](https://tools.miku.ac/image_patina/)
-
 * [页面加载分析](https://developers.google.com/speed/pagespeed/insights/)
-
 * [图片批量裁剪](https://www.smartresize.com/zh-cn)
-
 * [正则校验](https://regex101.com/)
-
 * [caniuse(浏览器css样式适配)](https://caniuse.com/)
-
 * [alibaba-icon](https://www.iconfont.cn/)
-
 * [java反编译class](http://javare.cn/)
-
 * [花字生成](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
-
 * [zsh-themes](https://zshthem.es/all/)
-
 * [cron表达式生成](http://www.cronmaker.com/)
-
 * [selenium release包下载](http://selenium-release.storage.googleapis.com/index.html)
-
 * [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index)
-
 * [chromedriver npm 下载](https://npm.taobao.org/mirrors/chromedriver/)
-
 * [显示本地ip](http://ip111.cn/)
-
 * [free-api](https://www.free-api.com/)
-
 * [查看当前设备屏幕尺寸](https://device.my/)
-
 * [测试视频资源](http://samples.mplayerhq.hu/)
-
 * [腾讯隐私，用来关闭广告](https://privacy.qq.com/advertisement.htm)
-
 * [在线pdm打开](http://www.dmanywhere.cn/)
-
 * [vdsx在线打开](https://www.lucidchart.com)
-
 * [jdk下载](https://www.injdk.cn/)
-
 * [教你使用百度](http://tool.mkblog.cn/lmbtfy/)
-
 * [rubular在线正则](https://rubular.com/)
-
-* [中国传统眼色](http://zhongguose.com/)
-
+* [中国传统颜色](http://zhongguose.com/)
+* [搜狗颜文字](https://pinyin.sogou.com/dict/ywz/)
+* [6位cron](https://cron.qqe2.com/)
+* [nginx配置文件生成](https://www.digitalocean.com/community/tools/nginx?domains.0.routing.index=index.html&domains.0.routing.fallbackHtml=true&global.app.lang=zhCN)
+* [资源站]([阿虚同学的储物间 (axutongxue.com)](http://axutongxue.com/))
+* [木及简历 (mdedit.online)](https://resume.mdedit.online/editor/#/)
 
 ### 数据网站
 * [行业数据](http://www.dydata.io)
@@ -115,6 +90,7 @@ description: tools to recommend
 
 * [git飞行日志](https://docs.breword.com/k88hudson-git-flight-rules/readme_zh-cn)
 
+* [linux命令中文手册-带示例](https://linux.liuxfe.com/)
 
 ### 上班划水
 * [黑客派](https://hacpai.com/)
@@ -205,5 +181,4 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 * [彼岸图网](http://pic.netbian.com/)
 
 * [免费版权图片搜索](https://www.logosc.cn/so/)
-
 
