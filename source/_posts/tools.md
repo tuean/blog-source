@@ -63,6 +63,15 @@ description: tools to recommend
 * [资源站]([阿虚同学的储物间 (axutongxue.com)](http://axutongxue.com/))
 * [木及简历 (mdedit.online)](https://resume.mdedit.online/editor/#/)
 
+* [中国传统眼色](http://zhongguose.com/)
+
+* [cronhub](https://crontab.cronhub.io/)
+
+* [leanpub](https://leanpub.com/bookstore?type=book)
+ 
+* [imagel online](https://ij.imjoy.io/)
+
+
 ### 数据网站
 * [行业数据](http://www.dydata.io)
 
@@ -90,7 +99,25 @@ description: tools to recommend
 
 * [git飞行日志](https://docs.breword.com/k88hudson-git-flight-rules/readme_zh-cn)
 
+* [css battle](https://cssbattle.dev/)
+
+* [css学习](https://zh.learnlayout.com/)
+
+* [flex学习](http://flexboxfroggy.com/)
+
+* [css文章](https://css-tricks.com/)
+
+* [codepen](https://codepen.io/)
+
+* [在线模拟](https://neumorphism.io/#55b9f3)
+
+* [好看的渐变色](https://uigradients.com/#VerBlack)
+
+* [自定义svg](https://iconsvg.xyz/) 
+
 * [linux命令中文手册-带示例](https://linux.liuxfe.com/)
+
+
 
 ### 上班划水
 * [黑客派](https://hacpai.com/)
@@ -182,3 +209,12 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 
 * [免费版权图片搜索](https://www.logosc.cn/so/)
 
+
+#### idea plugin
+* Active-power-mode
+* nyan progress bar
+* Meterial Theme UI 
+* Atom Material Icons
+* GitToolBox
+* Maven Helper
+* Vuesion Theme
