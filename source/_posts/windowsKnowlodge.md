@@ -25,5 +25,18 @@ cmd中cp命令为copy
 
 
 
+#### windows查找端口
+
+```shell
+netstat -aon|findstr "${port}"
+```
+
+#### 强制杀进程
+
+```shell
+taskkill /T /F /PID ${pid}
+```
+
+
 
 
