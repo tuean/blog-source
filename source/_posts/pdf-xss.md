@@ -3,6 +3,7 @@ title: pdf-xss
 date: 2021-12-13 10:52:09
 tags:
     - xss
+cover: https://image-1256217908.cos.ap-shanghai.myqcloud.com/71e52c67f5094e44b92ccaed93db15c5.jpeg
 ---
 
 ## pdf导致的xss问题

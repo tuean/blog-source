@@ -2,6 +2,7 @@
 title: windowsKnowlodge
 date: 2021-08-25 21:35:48
 tags:
+cover: https://image-1256217908.cos.ap-shanghai.myqcloud.com/127f2bf2880511ebb6edd017c2d2eca2.jpeg
 ---
 
 
