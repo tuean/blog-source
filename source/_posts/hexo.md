@@ -162,6 +162,19 @@ hexo d
 自行按照爱好设定
 
 
+### 生成sitemap
+[配置github action](https://knktc.com/2021/06/26/hexo-use-github-actions-to-submit-sitemap/)
+
+google
+```shell
+npm install hexo-generator-sitemap --save
+```
+
+baidu
+```shell
+npm install hexo-generator-baidu-sitemap --save
+```
+
 ## 备份
 * 源码全部提交到 **blog-source** 仓库
 

@@ -29,6 +29,11 @@ i18n_dir: :lang
 skip_render:
   - "zohoverify/**"
   - "_posts/docker-mysql-workbench.md"
+  - ".github/**/**"
+
+include:
+  - ".github/**/**"
+
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -84,6 +89,7 @@ deploy:
   type: git
   branch: master
 #  repo: https://github.com/tuean/blog.git
+  ignore_hidden: false  # 加了这么一个配置
   repo:
     github: https://github.com/tuean/blog.git
 #    coding: https://e.coding.net/tuean/blog.git
