@@ -11,6 +11,7 @@ description: tools to recommend
 ---
 
 ### github推荐
+
 * [tpp](https://github.com/cbbrowne/tpp) 一款命令行ppt工具，很帅，很geek
     首页：[地址](http://www.ngolde.de/tpp.html)
 
@@ -23,10 +24,11 @@ description: tools to recommend
 * [arthas](https://github.com/alibaba/arthas) java程序诊断工具
 
 ### github工具
+
 * [readme图标](https://shields.io/)
 
-
 ### 工具网站
+
 * [免费图床](https://sm.ms)
 * [正则示例](http://www.xuanwodata.com:3000/sregular/)
 * [css动画样式示例](https://daneden.github.io/animate.css/)
@@ -62,29 +64,25 @@ description: tools to recommend
 * [nginx配置文件生成](https://www.digitalocean.com/community/tools/nginx?domains.0.routing.index=index.html&domains.0.routing.fallbackHtml=true&global.app.lang=zhCN)
 * [资源站]([阿虚同学的储物间 (axutongxue.com)](http://axutongxue.com/))
 * [木及简历 (mdedit.online)](https://resume.mdedit.online/editor/#/)
-
 * [中国传统眼色](http://zhongguose.com/)
-
 * [cronhub](https://crontab.cronhub.io/)
-
 * [leanpub](https://leanpub.com/bookstore?type=book)
- 
 * [imagel online](https://ij.imjoy.io/)
 
-
 ### 数据网站
+
 * [行业数据](http://www.dydata.io)
 
-
 ### 在线画图
+
 * [在线流程图](https://www.websequencediagrams.com/)
 
 * [processon.com](https://processon.com/)
 
 * [draw.io](https://www.draw.io/)
 
-
 ### 学习
+
 * [IBM developer](https://www.ibm.com/developerworks/cn/topics/)
 
 * [gitbook:burpsuit使用说明](https://legacy.gitbook.com/book/t0data/burpsuite/details)
@@ -119,8 +117,8 @@ description: tools to recommend
 
 * [手绘流程图](https://asciiflow.com/#/)
 
-
 ### 上班划水
+
 * [黑客派](https://hacpai.com/)
 
 * [v2ex](https://www.v2ex.com/)
@@ -131,23 +129,21 @@ description: tools to recommend
 
 * [js1k](https://js1k.com/)
 
-
-
-
 ### 梯子
+
 * [just my socks](https://justmysocks1.net/members/index.php)
-省去自己搭梯子的烦恼
+  省去自己搭梯子的烦恼
 
 * [ss 客户端下载](https://shadowsocks.org/en/download/clients.html)
 
 * [ss 服务端搭建教程](https://linghucong.js.org/2016/04/20/setup-Shadowsocks-on-ubuntu-1604/)
 
-
-
 ### 免费直播
+
 * [柠檬直播](http://www.ningmengtiyu.com/)
 
 ### 刷题
+
 * [leetcode](https://leetcode.com/problemset/all/)
 
 * [lintcode](https://www.lintcode.com/zh-cn/problem/)
@@ -159,10 +155,10 @@ description: tools to recommend
 * [北京大学PKU](http://acm.pku.edu.cn/JudgeOnline/)
 
 * [浙江大学ZKU](http://acm.zju.edu.cn/)
-from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
-
+  from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 
 ### 官方文档
+
 * [tomcat](https://cwiki.apache.org/confluence/display/tomcat/)
 
 * [springboot](https://docs.spring.io/spring-boot/docs/1.5.1.RELEASE/reference/htmlsingle/#appendix)
@@ -176,10 +172,11 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 * [spring cloud boot 版本对应](https://start.spring.io/actuator/info)
 
 ### 电子书资源
+
 * [三秋书屋](https://www.d4j.cn/)
 
-
 #### 破解
+
 * [nacicat premium](http://www.ddup.date/navicat-premium-12-1-15-%E6%9C%80%E6%96%B0%E7%89%88%E7%A0%B4%E8%A7%A3%E5%AE%89%E8%A3%85%EF%BC%88windows%EF%BC%89/)
 
 * [ncm格式破解](https://moresound.tk/music/tool/)
@@ -188,8 +185,8 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 
 * [mac破解软件下载](https://macwk.com/)
 
-
 #### blog
+
 * [美团技术团队](https://tech.meituan.com/)
 
 * [风云](https://blog.codingnow.com/)
@@ -200,8 +197,8 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 
 * [列表](http://techblog.pub/)
 
-
 #### 壁纸
+
 * [lcoc](http://lcoc.top/bizhi/)
 
 * [极像素](https://www.sigoo.com/)
@@ -209,6 +206,7 @@ from [来源](https://blog.csdn.net/kangyan__/article/details/70184935)
 * [彼岸图网](http://pic.netbian.com/)
 
 * [免费版权图片搜索](https://www.logosc.cn/so/)
+
 
 
 #### idea plugin
