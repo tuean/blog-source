@@ -62,12 +62,13 @@ description: tools to recommend
 * [搜狗颜文字](https://pinyin.sogou.com/dict/ywz/)
 * [6位cron](https://cron.qqe2.com/)
 * [nginx配置文件生成](https://www.digitalocean.com/community/tools/nginx?domains.0.routing.index=index.html&domains.0.routing.fallbackHtml=true&global.app.lang=zhCN)
-* [资源站]([阿虚同学的储物间 (axutongxue.com)](http://axutongxue.com/))
+* [资源站(阿虚同学的储物间](http://axutongxue.com/)
 * [木及简历 (mdedit.online)](https://resume.mdedit.online/editor/#/)
 * [中国传统眼色](http://zhongguose.com/)
 * [cronhub](https://crontab.cronhub.io/)
 * [leanpub](https://leanpub.com/bookstore?type=book)
 * [imagel online](https://ij.imjoy.io/)
+* [f搜](https://fsoufsou.com/)
 
 ### 数据网站
 
