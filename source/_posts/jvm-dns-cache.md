@@ -112,6 +112,16 @@ static {
 若都无配置且SecurityManager（jdk17过时）为空的情况下，那么就执行配置设置（默认为30s）。
 
 
+### 更深层调用
+在方法*getAddressesFromNameService(String host, InetAddress reqAddr)*中观察到真实的调用方法
+```java
+addresses = nameService.lookupAllHostAddr(host);
+```
+此处的nameService为*sun.net.spi.nameservice*
+例如官方包中提供的*sun.net.spi.nameservice.dns.DNSNameService*
+其中的lookupAllHostAddr方法
+
+
 ### 使用方式
 通过名字，很明显的看到这是网络地址缓存策略类，其使用场景位于*InetAddress*类中
 
